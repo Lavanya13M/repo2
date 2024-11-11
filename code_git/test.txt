@@ -1,0 +1,5 @@
+##first edit from local
+https://github.com/Lavanya13M/repo2.git
+#git init
+#git status
+#git config --list
